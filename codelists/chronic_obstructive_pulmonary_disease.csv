@@ -1,0 +1,49 @@
+code,coding_system,description,entity,list_name,upload_date
+H3...00,Read,Chronic obstructive pulmonary disease,diagnostic,48 - Chronic_obstructive_pulmonary_disease,2014-01-27
+H31..00,Read,Chronic bronchitis,diagnostic,48 - Chronic_obstructive_pulmonary_disease,2014-01-27
+H310.00,Read,Simple chronic bronchitis,diagnostic,48 - Chronic_obstructive_pulmonary_disease,2014-01-27
+H310000,Read,Chronic catarrhal bronchitis,diagnostic,48 - Chronic_obstructive_pulmonary_disease,2014-01-27
+H310z00,Read,Simple chronic bronchitis NOS,diagnostic,48 - Chronic_obstructive_pulmonary_disease,2014-01-27
+H311.00,Read,Mucopurulent chronic bronchitis,diagnostic,48 - Chronic_obstructive_pulmonary_disease,2014-01-27
+H311000,Read,Purulent chronic bronchitis,diagnostic,48 - Chronic_obstructive_pulmonary_disease,2014-01-27
+H311100,Read,Fetid chronic bronchitis,diagnostic,48 - Chronic_obstructive_pulmonary_disease,2014-01-27
+H311z00,Read,Mucopurulent chronic bronchitis NOS,diagnostic,48 - Chronic_obstructive_pulmonary_disease,2014-01-27
+H312.00,Read,Obstructive chronic bronchitis,diagnostic,48 - Chronic_obstructive_pulmonary_disease,2014-01-27
+H312000,Read,Chronic asthmatic bronchitis,diagnostic,48 - Chronic_obstructive_pulmonary_disease,2014-01-27
+H312011,Read,Chronic wheezy bronchitis,diagnostic,48 - Chronic_obstructive_pulmonary_disease,2014-01-27
+H312100,Read,Emphysematous bronchitis,diagnostic,48 - Chronic_obstructive_pulmonary_disease,2014-01-27
+H312300,Read,Bronchiolitis obliterans,diagnostic,48 - Chronic_obstructive_pulmonary_disease,2014-01-27
+H312z00,Read,Obstructive chronic bronchitis NOS,diagnostic,48 - Chronic_obstructive_pulmonary_disease,2014-01-27
+H313.00,Read,Mixed simple and mucopurulent chronic bronchitis,diagnostic,48 - Chronic_obstructive_pulmonary_disease,2014-01-27
+H31y.00,Read,Other chronic bronchitis,diagnostic,48 - Chronic_obstructive_pulmonary_disease,2014-01-27
+H31y100,Read,Chronic tracheobronchitis,diagnostic,48 - Chronic_obstructive_pulmonary_disease,2014-01-27
+H31yz00,Read,Other chronic bronchitis NOS,diagnostic,48 - Chronic_obstructive_pulmonary_disease,2014-01-27
+H31z.00,Read,Chronic bronchitis NOS,diagnostic,48 - Chronic_obstructive_pulmonary_disease,2014-01-27
+H32..00,Read,Emphysema,diagnostic,48 - Chronic_obstructive_pulmonary_disease,2014-01-27
+H320.00,Read,Chronic bullous emphysema,diagnostic,48 - Chronic_obstructive_pulmonary_disease,2014-01-27
+H320000,Read,Segmental bullous emphysema,diagnostic,48 - Chronic_obstructive_pulmonary_disease,2014-01-27
+H320100,Read,Zonal bullous emphysema,diagnostic,48 - Chronic_obstructive_pulmonary_disease,2014-01-27
+H320200,Read,Giant bullous emphysema,diagnostic,48 - Chronic_obstructive_pulmonary_disease,2014-01-27
+H320300,Read,Bullous emphysema with collapse,diagnostic,48 - Chronic_obstructive_pulmonary_disease,2014-01-27
+H320z00,Read,Chronic bullous emphysema NOS,diagnostic,48 - Chronic_obstructive_pulmonary_disease,2014-01-27
+H321.00,Read,Panlobular emphysema,diagnostic,48 - Chronic_obstructive_pulmonary_disease,2014-01-27
+H322.00,Read,Centrilobular emphysema,diagnostic,48 - Chronic_obstructive_pulmonary_disease,2014-01-27
+H32y.00,Read,Other emphysema,diagnostic,48 - Chronic_obstructive_pulmonary_disease,2014-01-27
+H32y000,Read,Acute vesicular emphysema,diagnostic,48 - Chronic_obstructive_pulmonary_disease,2014-01-27
+H32y100,Read,Atrophic (senile) emphysema,diagnostic,48 - Chronic_obstructive_pulmonary_disease,2014-01-27
+H32y111,Read,Acute interstitial emphysema,diagnostic,48 - Chronic_obstructive_pulmonary_disease,2014-01-27
+H32y200,Read,MacLeod's unilateral emphysema,diagnostic,48 - Chronic_obstructive_pulmonary_disease,2014-01-27
+H32yz00,Read,Other emphysema NOS,diagnostic,48 - Chronic_obstructive_pulmonary_disease,2014-01-27
+H32z.00,Read,Emphysema NOS,diagnostic,48 - Chronic_obstructive_pulmonary_disease,2014-01-27
+H36..00,Read,Mild chronic obstructive pulmonary disease,diagnostic,48 - Chronic_obstructive_pulmonary_disease,2014-01-27
+H37..00,Read,Moderate chronic obstructive pulmonary disease,diagnostic,48 - Chronic_obstructive_pulmonary_disease,2014-01-27
+H38..00,Read,Severe chronic obstructive pulmonary disease,diagnostic,48 - Chronic_obstructive_pulmonary_disease,2014-01-27
+H3y..11,Read,Other specified chronic obstructive pulmonary disease,diagnostic,48 - Chronic_obstructive_pulmonary_disease,2014-01-27
+H3z..11,Read,Chronic obstructive pulmonary disease NOS,diagnostic,48 - Chronic_obstructive_pulmonary_disease,2014-01-27
+491,OXMIS,CHRONIC BRONCHITIS,diagnostic,48 - Chronic_obstructive_pulmonary_disease,2014-01-27
+491 E,OXMIS,CHRONIC BRONCHITIS WITH EMPHYSEMA,diagnostic,48 - Chronic_obstructive_pulmonary_disease,2014-01-27
+492,OXMIS,EMPHYSEMA PULMONARY,diagnostic,48 - Chronic_obstructive_pulmonary_disease,2014-01-27
+492 AC,OXMIS,EMPHYSEMA APICAL BULLAE,diagnostic,48 - Chronic_obstructive_pulmonary_disease,2014-01-27
+5199G,OXMIS,OBSTRUCTIVE AIRWAYS DISEASE CHRONIC,diagnostic,48 - Chronic_obstructive_pulmonary_disease,2014-01-27
+5199GL,OXMIS,COLD (CHRONIC OBSTRUCTIVE LUNG DISEASE),diagnostic,48 - Chronic_obstructive_pulmonary_disease,2014-01-27
+5199GP,OXMIS,COPD (CHRONIC OBSTRUCTIVE PULMONARY DISE,diagnostic,48 - Chronic_obstructive_pulmonary_disease,2014-01-27

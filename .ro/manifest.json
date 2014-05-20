@@ -1,0 +1,147 @@
+{
+  "@context" : [ "https://w3id.org/bundle/context" ],
+  "id" : "/",
+  "manifest" : [ "/.ro/manifest.json" ],
+  "createdOn" : "-",
+  "pav:retrievedFrom" : "https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/5/",
+  "createdBy" : [{"name":"Matthew Gamble",
+    "orcidid": "http://orcid.org/0000-0003-4913-1485"}],
+    "aggregates" : [ {
+      "file" : "/",
+      "folder" : "/",
+      "mediatype" : "application/vnd.wf4ever.robundle",
+      "createdOn" : "2014-05-13T12:30:23.062Z",
+      "proxy" : "urn:uuid:7ad2f13b-94ff-4af9-abdf-a168e38c2602"
+    },
+    {
+      "uri" : "http://dx.doi.org/10.1136/bmj.g330",
+      "bundledAs" : {
+        "filename"  : "/bmj.g330.pdf"
+        "proxy" : "urn:uuid:83a3d644-b44a-42b2-b766-8cb269ec3f28"
+      }
+    },
+    {
+      "pav:retrievedFrom" : "https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/5/codelist/angina/",
+      "file" : "/codelists/angina.csv",
+        }
+    },
+    {
+      "pav:retrievedFrom" : "https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/5/codelist/chronic_obstructive_pulmonary_disease/",
+      "file" : "/codelists/chronic_obstructive_pulmonary_disease.csv",
+        }
+    },
+    {
+      "pav:retrievedFrom" : "https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/5/codelist/epilepsy_drugs/",
+      "file" : "/codelists/epilepsy_drugs.csv",
+        }
+    },
+    {
+      "pav:retrievedFrom" : "https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/5/codelist/lithium_drugcodes/",
+      "file" : "/codelists/lithium_drugcodes.csv",
+        }
+    },
+    {
+      "pav:retrievedFrom" : "https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/5/codelist/proteinuria/",
+      "file" : "/codelists/proteinuria.csv",
+        }
+    },
+    {
+      "pav:retrievedFrom" : "https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/5/codelist/spirometry/",
+      "file" : "/codelists/spirometry.csv",
+        }
+    },
+    {
+      "pav:retrievedFrom" : "https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/5/codelist/asthma_clinicals/",
+      "file" : "/codelists/asthma_clinicals.csv",
+        }
+    },
+    {
+      "pav:retrievedFrom" : "https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/5/codelist/coronary_heart_disease/",
+      "file" : "/codelists/coronary_heart_disease.csv",
+        }
+    },
+    {
+      "pav:retrievedFrom" : "https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/5/codelist/exercise_testing/",
+      "file" : "/codelists/exercise_testing.csv",
+        }
+    },
+    {
+      "pav:retrievedFrom" : "https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/5/codelist/lithium_therapy/",
+      "file" : "/codelists/lithium_therapy.csv",
+        }
+    },
+    {
+      "pav:retrievedFrom" : "https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/5/codelist/retinal_screening/",
+      "file" : "/codelists/retinal_screening.csv",
+        }
+    },
+    {
+      "pav:retrievedFrom" : "https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/5/codelist/stroke/",
+      "file" : "/codelists/stroke.csv",
+        }
+    },
+    {
+      "pav:retrievedFrom" : "https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/5/codelist/asthma_drugs/",
+      "file" : "/codelists/asthma_drugs.csv",
+        }
+    },
+    {
+      "pav:retrievedFrom" : "https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/5/codelist/diabetes/",
+      "file" : "/codelists/diabetes.csv",
+        }
+    },
+    {
+      "pav:retrievedFrom" : "https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/5/codelist/hba1c_testing/",
+      "file" : "/codelists/hba1c_testing.csv",
+        }
+    },
+    {
+      "pav:retrievedFrom" : "https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/5/codelist/micro-albuminuria_testing/",
+      "file" : "/codelists/micro.csv",
+        }
+    },
+    {
+      "pav:retrievedFrom" : "https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/5/codelist/serum_creatine_testing/",
+      "file" : "/codelists/serum_creatine_testing.csv",
+        }
+    },
+    {
+      "pav:retrievedFrom" : "https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/5/codelist/thyroid_function/",
+      "file" : "/codelists/thyroid_function.csv",
+        }
+    },
+    {
+      "pav:retrievedFrom" : "https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/5/codelist/body_mass_index/",
+      "file" : "/codelists/body_mass_index.csv",
+        }
+    },
+    {
+      "pav:retrievedFrom" : "https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/5/codelist/epilepsy_clinicals/",
+      "file" : "/codelists/epilepsy_clinicals.csv",
+        }
+    },
+    {
+      "pav:retrievedFrom" : "https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/5/codelist/influenza_immunisation/",
+      "file" : "/codelists/influenza_immunisation.csv",
+        }
+    },
+    {
+      "pav:retrievedFrom" : "https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/5/codelist/neuropathy/",
+      "file" : "/codelists/neuropathy.csv",
+        }
+    },
+    {
+      "pav:retrievedFrom" : "https://clinicalcodes.rss.mhs.man.ac.uk/medcodes/article/5/codelist/smoking_status/",
+      "file" : "/codelists/smoking_status.csv",
+        }
+    }
+    "annotations" : [ {
+      "about" : "/",
+      "content" : "/annotations/articlecomments.json"
+    }
+    {
+      "about" : "/",
+      "content" : "/annotations/articledescription.json"
+    }
+    ]]
+  }

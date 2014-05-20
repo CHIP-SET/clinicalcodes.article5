@@ -1,0 +1,85 @@
+code,coding_system,description,entity,list_name,upload_date
+G61..00,Read,Intracerebral haemorrhage,diagnostic,70 - Stroke,2014-01-27
+G610.00,Read,Cortical haemorrhage,diagnostic,70 - Stroke,2014-01-27
+G611.00,Read,Internal capsule haemorrhage,diagnostic,70 - Stroke,2014-01-27
+G61..11,Read,CVA - cerebrovascular accid due to intracerebral haemorrhage,diagnostic,70 - Stroke,2014-01-27
+G61..12,Read,Stroke due to intracerebral haemorrhage,diagnostic,70 - Stroke,2014-01-27
+G612.00,Read,Basal nucleus haemorrhage,diagnostic,70 - Stroke,2014-01-27
+G613.00,Read,Cerebellar haemorrhage,diagnostic,70 - Stroke,2014-01-27
+G614.00,Read,Pontine haemorrhage,diagnostic,70 - Stroke,2014-01-27
+G615.00,Read,Bulbar haemorrhage,diagnostic,70 - Stroke,2014-01-27
+G616.00,Read,External capsule haemorrhage,diagnostic,70 - Stroke,2014-01-27
+G618.00,Read,Intracerebral haemorrhage; multiple localized,diagnostic,70 - Stroke,2014-01-27
+G61X.00,Read,Intracerebral haemorrhage in hemisphere; unspecified,diagnostic,70 - Stroke,2014-01-27
+G61X000,Read,Left sided intracerebral haemorrhage; unspecified,diagnostic,70 - Stroke,2014-01-27
+G61X100,Read,Right sided intracerebral haemorrhage; unspecified,diagnostic,70 - Stroke,2014-01-27
+G61z.00,Read,Intracerebral haemorrhage NOS,diagnostic,70 - Stroke,2014-01-27
+G63y000,Read,Cerebral infarct due to thrombosis of precerebral arteries,diagnostic,70 - Stroke,2014-01-27
+G63y100,Read,Cerebral infarction due to embolism of precerebral arteries,diagnostic,70 - Stroke,2014-01-27
+G64..00,Read,Cerebral arterial occlusion,diagnostic,70 - Stroke,2014-01-27
+G640.00,Read,Cerebral thrombosis,diagnostic,70 - Stroke,2014-01-27
+G640000,Read,Cerebral infarction due to thrombosis of cerebral arteries,diagnostic,70 - Stroke,2014-01-27
+G641.00,Read,Cerebral embolism,diagnostic,70 - Stroke,2014-01-27
+G641000,Read,Cerebral infarction due to embolism of cerebral arteries,diagnostic,70 - Stroke,2014-01-27
+G64..11,Read,CVA - cerebral artery occlusion,diagnostic,70 - Stroke,2014-01-27
+G641.11,Read,Cerebral embolus,diagnostic,70 - Stroke,2014-01-27
+G64..12,Read,Infarction - cerebral,diagnostic,70 - Stroke,2014-01-27
+G64..13,Read,Stroke due to cerebral arterial occlusion,diagnostic,70 - Stroke,2014-01-27
+G64z.00,Read,Cerebral infarction NOS,diagnostic,70 - Stroke,2014-01-27
+G64z000,Read,Brainstem infarction,diagnostic,70 - Stroke,2014-01-27
+G64z100,Read,Wallenberg syndrome,diagnostic,70 - Stroke,2014-01-27
+G64z.11,Read,Brainstem infarction NOS,diagnostic,70 - Stroke,2014-01-27
+G64z111,Read,Lateral medullary syndrome,diagnostic,70 - Stroke,2014-01-27
+G64z.12,Read,Cerebellar infarction,diagnostic,70 - Stroke,2014-01-27
+G64z200,Read,Left sided cerebral infarction,diagnostic,70 - Stroke,2014-01-27
+G64z300,Read,Right sided cerebral infarction,diagnostic,70 - Stroke,2014-01-27
+G64z400,Read,Infarction of basal ganglia,diagnostic,70 - Stroke,2014-01-27
+G65..00,Read,Transient cerebral ischaemia,diagnostic,70 - Stroke,2014-01-27
+G650.00,Read,Basilar artery syndrome,diagnostic,70 - Stroke,2014-01-27
+G650.11,Read,Insufficiency - basilar artery,diagnostic,70 - Stroke,2014-01-27
+G651.00,Read,Vertebral artery syndrome,diagnostic,70 - Stroke,2014-01-27
+G651000,Read,Vertebro-basilar artery syndrome,diagnostic,70 - Stroke,2014-01-27
+G65..11,Read,Drop attack,diagnostic,70 - Stroke,2014-01-27
+G65..12,Read,Transient ischaemic attack,diagnostic,70 - Stroke,2014-01-27
+G65..13,Read,Vertebro-basilar insufficiency,diagnostic,70 - Stroke,2014-01-27
+G652.00,Read,Subclavian steal syndrome,diagnostic,70 - Stroke,2014-01-27
+G653.00,Read,Carotid artery syndrome hemispheric,diagnostic,70 - Stroke,2014-01-27
+G654.00,Read,Multiple and bilateral precerebral artery syndromes,diagnostic,70 - Stroke,2014-01-27
+G656.00,Read,Vertebrobasilar insufficiency,diagnostic,70 - Stroke,2014-01-27
+G65y.00,Read,Other transient cerebral ischaemia,diagnostic,70 - Stroke,2014-01-27
+G65z.00,Read,Transient cerebral ischaemia NOS,diagnostic,70 - Stroke,2014-01-27
+G65z000,Read,Impending cerebral ischaemia,diagnostic,70 - Stroke,2014-01-27
+G65z100,Read,Intermittent cerebral ischaemia,diagnostic,70 - Stroke,2014-01-27
+G65zz00,Read,Transient cerebral ischaemia NOS,diagnostic,70 - Stroke,2014-01-27
+G66..00,Read,Stroke and cerebrovascular accident unspecified,diagnostic,70 - Stroke,2014-01-27
+G660.00,Read,Middle cerebral artery syndrome,diagnostic,70 - Stroke,2014-01-27
+G661.00,Read,Anterior cerebral artery syndrome,diagnostic,70 - Stroke,2014-01-27
+G66..11,Read,CVA unspecified,diagnostic,70 - Stroke,2014-01-27
+G66..12,Read,Stroke unspecified,diagnostic,70 - Stroke,2014-01-27
+G66..13,Read,CVA - Cerebrovascular accident unspecified,diagnostic,70 - Stroke,2014-01-27
+G662.00,Read,Posterior cerebral artery syndrome,diagnostic,70 - Stroke,2014-01-27
+G663.00,Read,Brain stem stroke syndrome,diagnostic,70 - Stroke,2014-01-27
+G664.00,Read,Cerebellar stroke syndrome,diagnostic,70 - Stroke,2014-01-27
+G665.00,Read,Pure motor lacunar syndrome,diagnostic,70 - Stroke,2014-01-27
+G666.00,Read,Pure sensory lacunar syndrome,diagnostic,70 - Stroke,2014-01-27
+G667.00,Read,Left sided CVA,diagnostic,70 - Stroke,2014-01-27
+G668.00,Read,Right sided CVA,diagnostic,70 - Stroke,2014-01-27
+G6W..00,Read,Cereb infarct due unsp occlus/stenos precerebr arteries,diagnostic,70 - Stroke,2014-01-27
+G6X..00,Read,Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs,diagnostic,70 - Stroke,2014-01-27
+Gyu6200,Read,[X]Other intracerebral haemorrhage,diagnostic,70 - Stroke,2014-01-27
+Gyu6300,Read,[X]Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs,diagnostic,70 - Stroke,2014-01-27
+Gyu6400,Read,[X]Other cerebral infarction,diagnostic,70 - Stroke,2014-01-27
+Gyu6500,Read,[X]Occlusion and stenosis of other precerebral arteries,diagnostic,70 - Stroke,2014-01-27
+Gyu6600,Read,[X]Occlusion and stenosis of other cerebral arteries,diagnostic,70 - Stroke,2014-01-27
+Gyu6G00,Read,[X]Cereb infarct due unsp occlus/stenos precerebr arteries,diagnostic,70 - Stroke,2014-01-27
+L440.11,Read,CVA - cerebrovascular accident in the puerperium,diagnostic,70 - Stroke,2014-01-27
+L440.12,Read,Stroke in the puerperium,diagnostic,70 - Stroke,2014-01-27
+4350AT,OXMIS,TRANSIENT ISCHAEMIC ATTACKS WITH HYPERTE,diagnostic,70 - Stroke,2014-01-27
+4359AT,OXMIS,TRANSIENT ISCHAEMIC ATTACKS,diagnostic,70 - Stroke,2014-01-27
+4360A,OXMIS,CEREBROVASCULAR ACCIDENT WITH HYPERTENSI,diagnostic,70 - Stroke,2014-01-27
+4360B,OXMIS,STROKE WITH HYPERTENSION,diagnostic,70 - Stroke,2014-01-27
+4369A,OXMIS,CVA (CEREBROVASCULAR ACCIDENT),diagnostic,70 - Stroke,2014-01-27
+4369AL,OXMIS,CEREBROVASCULAR ACCIDENT LEFT,diagnostic,70 - Stroke,2014-01-27
+4369AR,OXMIS,CEREBROVASCULAR ACCIDENT RIGHT,diagnostic,70 - Stroke,2014-01-27
+4369B,OXMIS,STROKE,diagnostic,70 - Stroke,2014-01-27
+4369BN,OXMIS,SYNDROME STROKE,diagnostic,70 - Stroke,2014-01-27

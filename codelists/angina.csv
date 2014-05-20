@@ -1,0 +1,34 @@
+code,coding_system,description,entity,list_name,upload_date
+G311100,Read,Unstable angina,diagnostic,43 - angina,2014-01-27
+G311.11,Read,Crescendo angina,diagnostic,43 - angina,2014-01-27
+G311.13,Read,Unstable angina,diagnostic,43 - angina,2014-01-27
+G311.14,Read,Angina at rest,diagnostic,43 - angina,2014-01-27
+G311200,Read,Angina at rest,diagnostic,43 - angina,2014-01-27
+G311300,Read,Refractory angina,diagnostic,43 - angina,2014-01-27
+G33..00,Read,Angina pectoris,diagnostic,43 - angina,2014-01-27
+G330.00,Read,Angina decubitus,diagnostic,43 - angina,2014-01-27
+G330000,Read,Nocturnal angina,diagnostic,43 - angina,2014-01-27
+G330z00,Read,Angina decubitus NOS,diagnostic,43 - angina,2014-01-27
+G33z.00,Read,Angina pectoris NOS,diagnostic,43 - angina,2014-01-27
+G33z000,Read,Status anginosus,diagnostic,43 - angina,2014-01-27
+G33z100,Read,Stenocardia,diagnostic,43 - angina,2014-01-27
+G33z200,Read,Syncope anginosa,diagnostic,43 - angina,2014-01-27
+G33z300,Read,Angina on effort,diagnostic,43 - angina,2014-01-27
+G33z400,Read,Ischaemic chest pain,diagnostic,43 - angina,2014-01-27
+G33z500,Read,Post infarct angina,diagnostic,43 - angina,2014-01-27
+G33z600,Read,New onset angina,diagnostic,43 - angina,2014-01-27
+G33z700,Read,Stable angina,diagnostic,43 - angina,2014-01-27
+G33zz00,Read,Angina pectoris NOS,diagnostic,43 - angina,2014-01-27
+G343.00,Read,Ischaemic cardiomyopathy,diagnostic,43 - angina,2014-01-27
+Gyu3000,Read,[X]Other forms of angina pectoris,diagnostic,43 - angina,2014-01-27
+4130,OXMIS,ANGINA PECTORIS WITH HYPERTENSION,diagnostic,43 - angina,2014-01-27
+4130E,OXMIS,ANGINA EFFORT WITH HYPERTENSION,diagnostic,43 - angina,2014-01-27
+4139,OXMIS,ANGINA PECTORIS,diagnostic,43 - angina,2014-01-27
+4139AT,OXMIS,ANGINA ATYPICAL,diagnostic,43 - angina,2014-01-27
+4139C,OXMIS,CARDIAC ANGINA,diagnostic,43 - angina,2014-01-27
+4139CO,OXMIS,ANGINA CRESCENDO,diagnostic,43 - angina,2014-01-27
+4139E,OXMIS,ANGINA EFFORT,diagnostic,43 - angina,2014-01-27
+4139M,OXMIS,SYNDROME ANGINAL,diagnostic,43 - angina,2014-01-27
+4139N,OXMIS,ANGINA,diagnostic,43 - angina,2014-01-27
+4139PA,OXMIS,ANGINA INVERSA,diagnostic,43 - angina,2014-01-27
+4139U,OXMIS,UNSTABLE ANGINA,diagnostic,43 - angina,2014-01-27

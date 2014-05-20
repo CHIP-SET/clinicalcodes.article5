@@ -1,0 +1,80 @@
+code,coding_system,description,entity,list_name,upload_date
+G3...00,Read,Ischaemic heart disease,diagnostic,46 - Coronary_Heart_Disease,2014-01-27
+G31..00,Read,Other acute and subacute ischaemic heart disease,diagnostic,46 - Coronary_Heart_Disease,2014-01-27
+G310.00,Read,Postmyocardial infarction syndrome,diagnostic,46 - Coronary_Heart_Disease,2014-01-27
+G310.11,Read,Dressler's syndrome,diagnostic,46 - Coronary_Heart_Disease,2014-01-27
+G3...11,Read,Arteriosclerotic heart disease,diagnostic,46 - Coronary_Heart_Disease,2014-01-27
+G311.00,Read,Preinfarction syndrome,diagnostic,46 - Coronary_Heart_Disease,2014-01-27
+G311100,Read,Unstable angina,diagnostic,46 - Coronary_Heart_Disease,2014-01-27
+G311.11,Read,Crescendo angina,diagnostic,46 - Coronary_Heart_Disease,2014-01-27
+G311.12,Read,Impending infarction,diagnostic,46 - Coronary_Heart_Disease,2014-01-27
+G311.13,Read,Unstable angina,diagnostic,46 - Coronary_Heart_Disease,2014-01-27
+G311.14,Read,Angina at rest,diagnostic,46 - Coronary_Heart_Disease,2014-01-27
+G311200,Read,Angina at rest,diagnostic,46 - Coronary_Heart_Disease,2014-01-27
+G311300,Read,Refractory angina,diagnostic,46 - Coronary_Heart_Disease,2014-01-27
+G311500,Read,Acute coronary syndrome,diagnostic,46 - Coronary_Heart_Disease,2014-01-27
+G311z00,Read,Preinfarction syndrome NOS,diagnostic,46 - Coronary_Heart_Disease,2014-01-27
+G3...12,Read,Atherosclerotic heart disease,diagnostic,46 - Coronary_Heart_Disease,2014-01-27
+G3...13,Read,IHD - Ischaemic heart disease,diagnostic,46 - Coronary_Heart_Disease,2014-01-27
+G31y.00,Read,Other acute and subacute ischaemic heart disease,diagnostic,46 - Coronary_Heart_Disease,2014-01-27
+G31y000,Read,Acute coronary insufficiency,diagnostic,46 - Coronary_Heart_Disease,2014-01-27
+G31y200,Read,Subendocardial ischaemia,diagnostic,46 - Coronary_Heart_Disease,2014-01-27
+G31y300,Read,Transient myocardial ischaemia,diagnostic,46 - Coronary_Heart_Disease,2014-01-27
+G31yz00,Read,Other acute and subacute ischaemic heart disease NOS,diagnostic,46 - Coronary_Heart_Disease,2014-01-27
+G32..00,Read,Old myocardial infarction,diagnostic,46 - Coronary_Heart_Disease,2014-01-27
+G32..11,Read,Healed myocardial infarction,diagnostic,46 - Coronary_Heart_Disease,2014-01-27
+G32..12,Read,Personal history of myocardial infarction,diagnostic,46 - Coronary_Heart_Disease,2014-01-27
+G33..00,Read,Angina pectoris,diagnostic,46 - Coronary_Heart_Disease,2014-01-27
+G330.00,Read,Angina decubitus,diagnostic,46 - Coronary_Heart_Disease,2014-01-27
+G330000,Read,Nocturnal angina,diagnostic,46 - Coronary_Heart_Disease,2014-01-27
+G330z00,Read,Angina decubitus NOS,diagnostic,46 - Coronary_Heart_Disease,2014-01-27
+G331.00,Read,Prinzmetal's angina,diagnostic,46 - Coronary_Heart_Disease,2014-01-27
+G331.11,Read,Variant angina pectoris,diagnostic,46 - Coronary_Heart_Disease,2014-01-27
+G332.00,Read,Coronary artery spasm,diagnostic,46 - Coronary_Heart_Disease,2014-01-27
+G33z.00,Read,Angina pectoris NOS,diagnostic,46 - Coronary_Heart_Disease,2014-01-27
+G33z000,Read,Status anginosus,diagnostic,46 - Coronary_Heart_Disease,2014-01-27
+G33z100,Read,Stenocardia,diagnostic,46 - Coronary_Heart_Disease,2014-01-27
+G33z200,Read,Syncope anginosa,diagnostic,46 - Coronary_Heart_Disease,2014-01-27
+G33z300,Read,Angina on effort,diagnostic,46 - Coronary_Heart_Disease,2014-01-27
+G33z400,Read,Ischaemic chest pain,diagnostic,46 - Coronary_Heart_Disease,2014-01-27
+G33z500,Read,Post infarct angina,diagnostic,46 - Coronary_Heart_Disease,2014-01-27
+G33z600,Read,New onset angina,diagnostic,46 - Coronary_Heart_Disease,2014-01-27
+G33z700,Read,Stable angina,diagnostic,46 - Coronary_Heart_Disease,2014-01-27
+G33zz00,Read,Angina pectoris NOS,diagnostic,46 - Coronary_Heart_Disease,2014-01-27
+G34..00,Read,Other chronic ischaemic heart disease,diagnostic,46 - Coronary_Heart_Disease,2014-01-27
+G340.00,Read,Coronary atherosclerosis,diagnostic,46 - Coronary_Heart_Disease,2014-01-27
+G340000,Read,Single coronary vessel disease,diagnostic,46 - Coronary_Heart_Disease,2014-01-27
+G340100,Read,Double coronary vessel disease,diagnostic,46 - Coronary_Heart_Disease,2014-01-27
+G340.11,Read,Triple vessel disease of the heart,diagnostic,46 - Coronary_Heart_Disease,2014-01-27
+G340.12,Read,Coronary artery disease,diagnostic,46 - Coronary_Heart_Disease,2014-01-27
+G342.00,Read,Atherosclerotic cardiovascular disease,diagnostic,46 - Coronary_Heart_Disease,2014-01-27
+G343.00,Read,Ischaemic cardiomyopathy,diagnostic,46 - Coronary_Heart_Disease,2014-01-27
+G344.00,Read,Silent myocardial ischaemia,diagnostic,46 - Coronary_Heart_Disease,2014-01-27
+G34y.00,Read,Other specified chronic ischaemic heart disease,diagnostic,46 - Coronary_Heart_Disease,2014-01-27
+G34y000,Read,Chronic coronary insufficiency,diagnostic,46 - Coronary_Heart_Disease,2014-01-27
+G34y100,Read,Chronic myocardial ischaemia,diagnostic,46 - Coronary_Heart_Disease,2014-01-27
+G34yz00,Read,Other specified chronic ischaemic heart disease NOS,diagnostic,46 - Coronary_Heart_Disease,2014-01-27
+G34z.00,Read,Other chronic ischaemic heart disease NOS,diagnostic,46 - Coronary_Heart_Disease,2014-01-27
+G34z000,Read,Asymptomatic coronary heart disease,diagnostic,46 - Coronary_Heart_Disease,2014-01-27
+G3y..00,Read,Other specified ischaemic heart disease,diagnostic,46 - Coronary_Heart_Disease,2014-01-27
+G3z..00,Read,Ischaemic heart disease NOS,diagnostic,46 - Coronary_Heart_Disease,2014-01-27
+Gyu3.00,Read,[X]Ischaemic heart diseases,diagnostic,46 - Coronary_Heart_Disease,2014-01-27
+Gyu3200,Read,[X]Other forms of acute ischaemic heart disease,diagnostic,46 - Coronary_Heart_Disease,2014-01-27
+Gyu3300,Read,[X]Other forms of chronic ischaemic heart disease,diagnostic,46 - Coronary_Heart_Disease,2014-01-27
+4119B,OXMIS,ISCHAEMIC HEART DISEASE SUBACUTE,diagnostic,46 - Coronary_Heart_Disease,2014-01-27
+4120A,OXMIS,ISCHAEMIC HEART DISEASE HYPERTENSIVE,diagnostic,46 - Coronary_Heart_Disease,2014-01-27
+4129,OXMIS,ISCHAEMIC HEART DISEASE CHRONIC,diagnostic,46 - Coronary_Heart_Disease,2014-01-27
+4129AN,OXMIS,ISCHAEMIC HEART DISEASE,diagnostic,46 - Coronary_Heart_Disease,2014-01-27
+4129N,OXMIS,ISCHAEMIC HEART DISEASE ASYMPTOMATIC,diagnostic,46 - Coronary_Heart_Disease,2014-01-27
+4130,OXMIS,ANGINA PECTORIS WITH HYPERTENSION,diagnostic,46 - Coronary_Heart_Disease,2014-01-27
+4130E,OXMIS,ANGINA EFFORT WITH HYPERTENSION,diagnostic,46 - Coronary_Heart_Disease,2014-01-27
+4139,OXMIS,ANGINA PECTORIS,diagnostic,46 - Coronary_Heart_Disease,2014-01-27
+4139AT,OXMIS,ANGINA ATYPICAL,diagnostic,46 - Coronary_Heart_Disease,2014-01-27
+4139C,OXMIS,CARDIAC ANGINA,diagnostic,46 - Coronary_Heart_Disease,2014-01-27
+4139CO,OXMIS,ANGINA CRESCENDO,diagnostic,46 - Coronary_Heart_Disease,2014-01-27
+4139E,OXMIS,ANGINA EFFORT,diagnostic,46 - Coronary_Heart_Disease,2014-01-27
+4139M,OXMIS,SYNDROME ANGINAL,diagnostic,46 - Coronary_Heart_Disease,2014-01-27
+4139N,OXMIS,ANGINA,diagnostic,46 - Coronary_Heart_Disease,2014-01-27
+4139PA,OXMIS,ANGINA INVERSA,diagnostic,46 - Coronary_Heart_Disease,2014-01-27
+4139U,OXMIS,UNSTABLE ANGINA,diagnostic,46 - Coronary_Heart_Disease,2014-01-27
+4149,OXMIS,ASYMPTOMATIC ISCHAEMIC HEART DISEASE,diagnostic,46 - Coronary_Heart_Disease,2014-01-27

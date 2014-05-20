@@ -1,0 +1,19 @@
+code,coding_system,description,entity,list_name,upload_date,resolve_code,type
+44vE.00,Read,Lithium level therapeutic,diagnostic,67 - lithium_therapy,2014-01-27,0,MH_3/MH_4
+44W8.00,Read,Serum lithium level,diagnostic,67 - lithium_therapy,2014-01-27,0,MH_3
+44W8000,Read,Lithium level therapeutic,diagnostic,67 - lithium_therapy,2014-01-27,0,MH_3/MH_4
+44W8100,Read,Lithium level high - toxic,diagnostic,67 - lithium_therapy,2014-01-27,0,MH_3
+44W8.11,Read,Lithium: blood level,diagnostic,67 - lithium_therapy,2014-01-27,0,MH_3
+44W8200,Read,Lithium level low,diagnostic,67 - lithium_therapy,2014-01-27,0,MH_3
+6657.00,Read,On lithium,diagnostic,67 - lithium_therapy,2014-01-27,0,On_lithium
+6657.11,Read,Lithium monitoring,diagnostic,67 - lithium_therapy,2014-01-27,0,On_lithium
+6657.12,Read,Started lithium,diagnostic,67 - lithium_therapy,2014-01-27,0,On_lithium
+665B.00,Read,Lithium stopped,diagnostic,67 - lithium_therapy,2014-01-27,1,On_lithium
+9859,Read,TOXICITY LITHIUM,diagnostic,67 - lithium_therapy,2014-01-27,0,MH_3
+R105300,Read,[D]Lithium; blood level abnormal,diagnostic,67 - lithium_therapy,2014-01-27,0,MH_3
+T3551CA,Read,LITHIUM THERAPY,diagnostic,67 - lithium_therapy,2014-01-27,0,On_lithium
+L 130L,OXMIS,SERUM LITHIUM LEVEL,diagnostic,67 - lithium_therapy,2014-01-27,0,MH_3
+L 130LA,OXMIS,LITHIUM LEVEL,diagnostic,67 - lithium_therapy,2014-01-27,0,MH_3
+L 130LB,OXMIS,LITHIUM LEVEL LOW,diagnostic,67 - lithium_therapy,2014-01-27,0,MH_3
+L 130LC,OXMIS,LITHIUM LEVEL THERAPEUTIC,diagnostic,67 - lithium_therapy,2014-01-27,0,MH_3/MH_4
+L 130LD,OXMIS,LITHIUM LEVEL HIGH,diagnostic,67 - lithium_therapy,2014-01-27,0,MH_3

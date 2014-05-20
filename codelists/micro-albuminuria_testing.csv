@@ -1,0 +1,16 @@
+code,coding_system,description,entity,list_name,upload_date
+467A.00,Read,24 hour urine protein output,test,50 - Micro-albuminuria_testing,2014-01-27
+467E.00,Read,Urine protein level,test,50 - Micro-albuminuria_testing,2014-01-27
+467H.00,Read,Random urine protein level,test,50 - Micro-albuminuria_testing,2014-01-27
+46N3.00,Read,Urine total protein,test,50 - Micro-albuminuria_testing,2014-01-27
+46N4.00,Read,Urine albumin,test,50 - Micro-albuminuria_testing,2014-01-27
+46N5.00,Read,24 hour urine protein excretion test,test,50 - Micro-albuminuria_testing,2014-01-27
+46N6.00,Read,24 hour urine albumin output,test,50 - Micro-albuminuria_testing,2014-01-27
+46N7.00,Read,Urine protein/creatinine index,test,50 - Micro-albuminuria_testing,2014-01-27
+46TC.00,Read,Urine albumin:creatinine ratio,test,50 - Micro-albuminuria_testing,2014-01-27
+46TD.00,Read,Urine microalbumin:creatinine ratio,test,50 - Micro-albuminuria_testing,2014-01-27
+46W..00,Read,Urine microalbumin,test,50 - Micro-albuminuria_testing,2014-01-27
+46w0.00,Read,Urine microalbumin positive,test,50 - Micro-albuminuria_testing,2014-01-27
+46W0.00,Read,Urine microalbumin positive,test,50 - Micro-albuminuria_testing,2014-01-27
+46W1.00,Read,Urine microalbumin negative,test,50 - Micro-albuminuria_testing,2014-01-27
+46W2.00,Read,Microalbumin excretion rate,test,50 - Micro-albuminuria_testing,2014-01-27

@@ -1,0 +1,15 @@
+code,coding_system,description,entity,list_name,upload_date
+33G..00,Read,Spirometry reversibility,test,39 - spirometry,2014-01-27
+33G0.00,Read,Spirometry reversibility negative,test,39 - spirometry,2014-01-27
+33G1.00,Read,Spirometry reversibility positive,test,39 - spirometry,2014-01-27
+33H..00,Read,Salbutamol reversibility,test,39 - spirometry,2014-01-27
+33H0.00,Read,Negative reversibility test to salbutamol,test,39 - spirometry,2014-01-27
+33H1.00,Read,Positive reversibility test to salbutamol,test,39 - spirometry,2014-01-27
+33I..00,Read,Ipratropium reversibility,test,39 - spirometry,2014-01-27
+33I0.00,Read,Negative reversibility test to ipratropium bromide,test,39 - spirometry,2014-01-27
+33I1.00,Read,Positive reversibility test to ipratropium bromide,test,39 - spirometry,2014-01-27
+33J..00,Read,Combined reversibility,test,39 - spirometry,2014-01-27
+33J0.00,Read,Neg reversibil test to combinat of salbutamol + ipratrop br,test,39 - spirometry,2014-01-27
+33J1.00,Read,Pos reversib test to combin of salbutamol + ipratropium br,test,39 - spirometry,2014-01-27
+66Ya.00,Read,Reversibility trial by bronchodilator,test,39 - spirometry,2014-01-27
+66Yb.00,Read,Reversibility trial by anticholinergic,test,39 - spirometry,2014-01-27

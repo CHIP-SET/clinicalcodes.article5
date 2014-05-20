@@ -1,0 +1,30 @@
+code,coding_system,description,entity,list_name,upload_date
+29B..00,Read,O/E - tactile sensation,diagnostic,55 - Neuropathy,2014-01-27
+29B1.00,Read,O/E - tactile sensation normal,diagnostic,55 - Neuropathy,2014-01-27
+29B..11,Read,O/E - touch sensation,diagnostic,55 - Neuropathy,2014-01-27
+29B2.00,Read,O/E - anaesthesia present,diagnostic,55 - Neuropathy,2014-01-27
+29B2000,Read,O/E - anaesthesia in legs,diagnostic,55 - Neuropathy,2014-01-27
+29B2100,Read,O/E - anaesthesia of extremities,diagnostic,55 - Neuropathy,2014-01-27
+29B2.11,Read,O/E - loss of touch sensation,diagnostic,55 - Neuropathy,2014-01-27
+29B3.00,Read,O/E - hypoaesthesia present,diagnostic,55 - Neuropathy,2014-01-27
+29B4.00,Read,O/E - hyperaesthesia present,diagnostic,55 - Neuropathy,2014-01-27
+29B7.00,Read,10g monofilament sensation present,diagnostic,55 - Neuropathy,2014-01-27
+29B8.00,Read,10g monofilament sensation absent,diagnostic,55 - Neuropathy,2014-01-27
+29B9.00,Read,10g monofilament sensation R foot abnormal,diagnostic,55 - Neuropathy,2014-01-27
+29BA.00,Read,10g monofilament sensation L foot abnormal,diagnostic,55 - Neuropathy,2014-01-27
+29BB.00,Read,10g monofilament sensation R foot normal,diagnostic,55 - Neuropathy,2014-01-27
+29BC.00,Read,10g monofilament sensation L foot normal,diagnostic,55 - Neuropathy,2014-01-27
+29H..00,Read,O/E - vibration sense,diagnostic,55 - Neuropathy,2014-01-27
+29H1.00,Read,O/E - vibration sense normal,diagnostic,55 - Neuropathy,2014-01-27
+29H2.00,Read,O/E - vibration sense reduced,diagnostic,55 - Neuropathy,2014-01-27
+29H3.00,Read,O/E - vibration sense absent,diagnostic,55 - Neuropathy,2014-01-27
+29H4.00,Read,O/E - Vibration sense of right foot abnormal,diagnostic,55 - Neuropathy,2014-01-27
+29H5.00,Read,O/E - Vibration sense of right foot normal,diagnostic,55 - Neuropathy,2014-01-27
+29H6.00,Read,O/E - Vibration sense of left foot abnormal,diagnostic,55 - Neuropathy,2014-01-27
+29H7.00,Read,O/E - Vibration sense of left foot normal,diagnostic,55 - Neuropathy,2014-01-27
+29H8.00,Read,O/E - vibration sense left foot reduced,diagnostic,55 - Neuropathy,2014-01-27
+29H9.00,Read,O/E - vibration sense right foot reduced,diagnostic,55 - Neuropathy,2014-01-27
+29HA.00,Read,O/E - Vibration sense of right foot absent,diagnostic,55 - Neuropathy,2014-01-27
+29HB.00,Read,O/E - Vibration sense of left foot absent,diagnostic,55 - Neuropathy,2014-01-27
+311A.00,Read,Monofilament foot sensation test,diagnostic,55 - Neuropathy,2014-01-27
+66Ac.00,Read,Diabetic peripheral neuropathy screening,diagnostic,55 - Neuropathy,2014-01-27

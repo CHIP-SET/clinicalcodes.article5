@@ -1,0 +1,83 @@
+code,coding_system,description,entity,list_name,upload_date
+442..00,Read,Thyroid hormone tests,diagnostic,65 - Thyroid_function,2014-01-27
+4421.00,Read,Thyroid hormone tests normal,diagnostic,65 - Thyroid_function,2014-01-27
+442..11,Read,TRH level,diagnostic,65 - Thyroid_function,2014-01-27
+4421.11,Read,Euthyroid,diagnostic,65 - Thyroid_function,2014-01-27
+442..12,Read,TSH level,diagnostic,65 - Thyroid_function,2014-01-27
+442..13,Read,Thyroid function tests,diagnostic,65 - Thyroid_function,2014-01-27
+442..14,Read,Thyroxine binding globulin,diagnostic,65 - Thyroid_function,2014-01-27
+4422.00,Read,Thyroid hormone tests high,diagnostic,65 - Thyroid_function,2014-01-27
+4423.00,Read,Thyroid hormone tests low,diagnostic,65 - Thyroid_function,2014-01-27
+4424.00,Read,Serum T3 level,diagnostic,65 - Thyroid_function,2014-01-27
+4424000,Read,Serum T3 level normal,diagnostic,65 - Thyroid_function,2014-01-27
+4424100,Read,Serum T3 level high,diagnostic,65 - Thyroid_function,2014-01-27
+4424200,Read,Serum T3 level low,diagnostic,65 - Thyroid_function,2014-01-27
+4425.00,Read,Free T3 level,diagnostic,65 - Thyroid_function,2014-01-27
+4426.00,Read,Serum T4 level,diagnostic,65 - Thyroid_function,2014-01-27
+4426000,Read,Serum T4 level normal,diagnostic,65 - Thyroid_function,2014-01-27
+4426100,Read,Serum T4 level abnormal,diagnostic,65 - Thyroid_function,2014-01-27
+4427.00,Read,Free T4 level,diagnostic,65 - Thyroid_function,2014-01-27
+4428.00,Read,Free thyroxine index,diagnostic,65 - Thyroid_function,2014-01-27
+4429.00,Read,Thyroxine binding globulin-TBG,diagnostic,65 - Thyroid_function,2014-01-27
+442a.00,Read,Plasma total T4 level,diagnostic,65 - Thyroid_function,2014-01-27
+442A.00,Read,TSH - thyroid stim. hormone,diagnostic,65 - Thyroid_function,2014-01-27
+442A000,Read,Serum TSH level normal,diagnostic,65 - Thyroid_function,2014-01-27
+442A100,Read,Serum TSH level abnormal,diagnostic,65 - Thyroid_function,2014-01-27
+442b.00,Read,Serum total T4 level,diagnostic,65 - Thyroid_function,2014-01-27
+442B.00,Read,TRH - thyroid release. hormone,diagnostic,65 - Thyroid_function,2014-01-27
+442c.00,Read,Plasma free T4 level,diagnostic,65 - Thyroid_function,2014-01-27
+442C.00,Read,Thyroid horm tests borderline,diagnostic,65 - Thyroid_function,2014-01-27
+442d.00,Read,Serum thyroglobulin level,diagnostic,65 - Thyroid_function,2014-01-27
+442D.00,Read,T3 uptake test,diagnostic,65 - Thyroid_function,2014-01-27
+442D000,Read,T3 uptake test normal,diagnostic,65 - Thyroid_function,2014-01-27
+442D100,Read,T3 uptake test abnormal,diagnostic,65 - Thyroid_function,2014-01-27
+442e.00,Read,Blood spot TSH level,diagnostic,65 - Thyroid_function,2014-01-27
+442E.00,Read,PBI - protein bound iodine estimation,diagnostic,65 - Thyroid_function,2014-01-27
+442f.00,Read,Serum total T3 level,diagnostic,65 - Thyroid_function,2014-01-27
+442F.00,Read,T3 suppression test,diagnostic,65 - Thyroid_function,2014-01-27
+442g.00,Read,Serum thyroglobulin recovery level,diagnostic,65 - Thyroid_function,2014-01-27
+442G.00,Read,Thyroid hormone tests abnormal,diagnostic,65 - Thyroid_function,2014-01-27
+442H.00,Read,Thyroid function tests normal,diagnostic,65 - Thyroid_function,2014-01-27
+442I.00,Read,Thyroid function tests abnormal,diagnostic,65 - Thyroid_function,2014-01-27
+442J.00,Read,Thyroid function test,diagnostic,65 - Thyroid_function,2014-01-27
+442K.00,Read,30 minute plasma TSH level,diagnostic,65 - Thyroid_function,2014-01-27
+442L.00,Read,60 minute plasma TSH level,diagnostic,65 - Thyroid_function,2014-01-27
+442M.00,Read,90 minute plasma TSH level,diagnostic,65 - Thyroid_function,2014-01-27
+442N.00,Read,120 minute plasma TSH level,diagnostic,65 - Thyroid_function,2014-01-27
+442O.00,Read,150 minute plasma TSH level,diagnostic,65 - Thyroid_function,2014-01-27
+442P.00,Read,30 minute serum TSH level,diagnostic,65 - Thyroid_function,2014-01-27
+442Q.00,Read,60 minute serum TSH level,diagnostic,65 - Thyroid_function,2014-01-27
+442S.00,Read,120 minute serum TSH level,diagnostic,65 - Thyroid_function,2014-01-27
+442T.00,Read,150 minute serum TSH level,diagnostic,65 - Thyroid_function,2014-01-27
+442U.00,Read,Serum free triiodothyronine level,diagnostic,65 - Thyroid_function,2014-01-27
+442V.00,Read,Serum free T4 level,diagnostic,65 - Thyroid_function,2014-01-27
+442W.00,Read,Serum TSH level,diagnostic,65 - Thyroid_function,2014-01-27
+442X.00,Read,Plasma TSH level,diagnostic,65 - Thyroid_function,2014-01-27
+442Y.00,Read,Plasma free triiodothyronine level,diagnostic,65 - Thyroid_function,2014-01-27
+442Z.00,Read,Thyroid hormone tests NOS,diagnostic,65 - Thyroid_function,2014-01-27
+R145.00,Read,[D]Thyroid function test abnormal,diagnostic,65 - Thyroid_function,2014-01-27
+R145z00,Read,[D]Thyroid function tests abnormal NOS,diagnostic,65 - Thyroid_function,2014-01-27
+L 112MA,OXMIS,SERUM TSH,diagnostic,65 - Thyroid_function,2014-01-27
+L 112MB,OXMIS,SERUM TSH NORMAL,diagnostic,65 - Thyroid_function,2014-01-27
+L 112MC,OXMIS,SERUM TSH ABNORMAL,diagnostic,65 - Thyroid_function,2014-01-27
+L 112N,OXMIS,TSH LEVEL,diagnostic,65 - Thyroid_function,2014-01-27
+L 112NB,OXMIS,TSH LEVEL NORMAL,diagnostic,65 - Thyroid_function,2014-01-27
+L 112NC,OXMIS,TSH LEVEL ABNORMAL,diagnostic,65 - Thyroid_function,2014-01-27
+L4000T,OXMIS,SERUM THYROXINE LEVEL,diagnostic,65 - Thyroid_function,2014-01-27
+L4000TE,OXMIS,THYROXINE ESTIMATION,diagnostic,65 - Thyroid_function,2014-01-27
+L4021L,OXMIS,T4 LEVEL,diagnostic,65 - Thyroid_function,2014-01-27
+L4021LA,OXMIS,T4 LEVEL ABNORMAL,diagnostic,65 - Thyroid_function,2014-01-27
+L4021LN,OXMIS,T4 LEVEL NORMAL,diagnostic,65 - Thyroid_function,2014-01-27
+L4021PA,OXMIS,T4 TOXICOSIS TEST ABNORMAL,diagnostic,65 - Thyroid_function,2014-01-27
+L4021PN,OXMIS,T4 TOXICOSIS TEST NORMAL,diagnostic,65 - Thyroid_function,2014-01-27
+L4021PV,OXMIS,T4 TOXICOSIS TEST,diagnostic,65 - Thyroid_function,2014-01-27
+L4031,OXMIS,T3 UPTAKE TEST,diagnostic,65 - Thyroid_function,2014-01-27
+L4031AA,OXMIS,T3 UPTAKE TEST ABNORMAL,diagnostic,65 - Thyroid_function,2014-01-27
+L4031AN,OXMIS,T3 UPTAKE TEST NORMAL,diagnostic,65 - Thyroid_function,2014-01-27
+L4031HS,OXMIS,T3 SERUM LEVEL INCREASED,diagnostic,65 - Thyroid_function,2014-01-27
+L4031LF,OXMIS,T3 FREE LEVEL,diagnostic,65 - Thyroid_function,2014-01-27
+L4031LS,OXMIS,T3 SERUM LEVEL DECREASED,diagnostic,65 - Thyroid_function,2014-01-27
+L4031NM,OXMIS,T3 LEVEL,diagnostic,65 - Thyroid_function,2014-01-27
+L4033F,OXMIS,THYROID FUNCTION TEST,diagnostic,65 - Thyroid_function,2014-01-27
+L4033FA,OXMIS,THYROID FUNCTION TEST ABNORMAL,diagnostic,65 - Thyroid_function,2014-01-27
+L4033FN,OXMIS,THYROID FUNCTION TEST NORMAL,diagnostic,65 - Thyroid_function,2014-01-27

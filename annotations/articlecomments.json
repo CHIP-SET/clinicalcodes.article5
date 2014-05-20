@@ -1,0 +1,16 @@
+{
+	"article_comments" : {
+		"comment" : {
+		    "number" : 1,
+		    "comment_time" : "2014-01-31 13.00",
+		    "comment_author" : "David Springate",
+		    "content" : "From Supplementary material (http://www.bmj.com/content/suppl/2011/06/28/bmj.d3590.DC1/dort834846.w1_default.pdf): Identification of patients for quality indicators For indicator denominators, patients with the relevant conditions were identified using diagnostic Read codes. The Quality and Outcomes Framework reporting rules for practices list acceptable codes for identifying patients with relevant conditions,1 but we included additional codes to avoid underestimating prevalence and to control for changes in coding behaviour following the introduction of the scheme.2 As practices might not have attached diagnostic codes to all relevant patients, we conducted sensitivity analyses by identifying additional patients using relevant management, referral, admission and prescription codes and terms. For example, for the main analysis patients with diabetes were identified using codes beginning C10 (diabetes mellitus), excluding non-diabetic specific codes (e.g. C10F811 – metabolic syndrome). Additional patients for sensitivity analyses were identified using codes relating to diabetic management (e.g. 66A – diabetic monitoring), referral (e.g. 8H4F.00 – referral to diabetologist), complications (e.g. 2BBF – retinal abnormality, diabetes related) or treatment (e.g. repeat prescriptions for insulin). The numbers of additional patients identified were generally small, and the results of the sensitivity analyses did not differ substantially from those of the main analysis. Patients for whom targets were met were identified using relevant Read codes and free-text terms."
+		},
+		"comment" : {
+		    "number" : 2,
+		    "comment_time" : "2014-01-31 13.10",
+		    "comment_author" : "David Springate",
+		    "content" : "If codes are included in the QOF business rules (2009), this is indicated in the 'QOF' column"
+		}
+	}
+}
