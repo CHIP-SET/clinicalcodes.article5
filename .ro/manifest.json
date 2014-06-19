@@ -1,6 +1,8 @@
 {
   "@context" : [ "https://w3id.org/bundle/context", 
-                 { "pav:retrievedFrom": "@type", "@id"} ],
+                 { "pav:retrievedFrom": {"@type": "@id"},
+                   "pav:importedFrom":  {"@type": "@id"}
+                 } ],
   "id" : "/",
   "manifest" : [ "manifest.json" ],
   "createdOn" : "2014-06-19T07:40:00Z",
